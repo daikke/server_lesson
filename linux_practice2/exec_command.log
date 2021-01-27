@@ -1,0 +1,817 @@
+  300  nvm install v.*.*
+  301  nvm install v14.15.4
+  302  nvm use v14.15.4
+  303  npm --v
+  304  ls
+  305  cd Documents
+  306  ls
+  307  cd Giztech
+  308  ls
+  309  mkdir LaravelLesson
+  310  ls
+  311  cd LaravelLesson
+  312  ls
+  313  composer create-project laravel/laravel --prefer-dist laravel_app 5.7
+  314  ls
+  315  cd laravel_app
+  316  ls
+  317  php artisan serve
+  318  brew uninstall formula
+  319  brew list
+  320  /bin/bash uninstall.sh --help
+  321  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+  322  php -v
+  323  uname -m
+  324  uname -m
+  325  uname -m
+  326  xcode-select --install
+  327  xcode-select --version
+  328  sudo mkdir /opt/homebrew
+  329  sudo chown -R $USER /opt/homebrew
+  330  vi ~/.zshrc
+  331  source ~/.zshrc
+  332  brew -v
+  333  brew install php@7.2\n
+  334  brew install php@7.2
+  335  brew update
+  336  brew install php@7.2
+  337  brew install php@7.3
+  338  brew search php72
+  339  brew search php
+  340  brew install php@7.3
+  341  brew install --build-from-source php@7.2
+  342  php -v
+  343  brew install composer
+  344  brew install nvm
+  345  echo 'export NVM_DIR=~/.nvm' >> ~/.bash_profile
+  346  echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.bash_profile
+  347  source ~/.bash_profile
+  348  nvm --version
+  349  nvm ls-remote
+  350  nvm installv14.15.4
+  351  nvm install v14.15.4
+  352  nvm use v14.15.4
+  353  composer create-project laravel/laravel --prefer-dist laravel_app 5.7
+  354  ls
+  355  rm -f laravel_app
+  356  rm -r laravel_app
+  357  ls
+  358  cd Do
+  359  cd Documents
+  360  ls
+  361  cd Giztech
+  362  ls
+  363  cd LaravelLesson
+  364  ls
+  365  rm -m laravel_app
+  366  rm -r laravel_app
+  367  ls
+  368  composer create-project laravel/laravel --prefer-dist laravel_app 5.7
+  369  ls
+  370  cd laravel_app
+  371  php artisan serve
+  372  mysql -u root -p
+  373  brew install mysql@5.7
+  374  echo 'export PATH="/opt/homebrew/opt/mysql@5.7/bin:$PATH"' >> ~/.zshrc
+  375  source ~/.zshrc
+  376  mysql --version
+  377  mysql -uroot -p
+  378  mysql -uroot -p
+  379  ls
+  380  php artisan migrate
+  381  php artisan migrate:fresh
+  382  mysql -uroot -p
+  383  php artisan make:migration create_todos_table --create=todos
+  384  php artisan migrate
+  385  mysql -uroot -p
+  386  php artisan migrate:rollback
+  387  php artisan migrate
+  388  mysql -uroot -p
+  389  php artisan make:seedeer TodosTableSeeder
+  390  php artisan make:seeder TodosTableSeeder
+  391  php artisan db:seed
+  392  ls
+  393  cd Documents
+  394  ls
+  395  ls
+  396  cd Giztech
+  397  ls
+  398  cd LaravelLesson
+  399  ls
+  400  cd laravel_app
+  401  ls
+  402  php artisan db:seed
+  403  mysql -uroot -p
+  404  php artisan make:controller TodoController --resource
+  405  php artisan serve
+  406  php artisan route:list
+  407  php artisan serve
+  408  composer require laravelcollective/html:5.7.0
+  409  php artisan serve
+  410  ls
+  411  php artisan make:model Todo
+  412  php artisan route:list
+  413  php artisan serve
+  414  php artisan route:list
+  415  mysql -uroot -p
+  416  ls
+  417  cd ../../../
+  418  ls
+  419  cd ../Desktop
+  420  ls
+  421  mysql -uroot -p db_lesson < db_lesson_bk.sql
+  422  mysql -uroot -p
+  423  mysql -uroot -p db_lesson < db_lesson_bk.sql
+  424  mysql -uroot -p
+  425  ls
+  426  cd ../
+  427  ls
+  428  cd Documents
+  429  ls
+  430  cd Giztech
+  431  ls
+  432  cd LaravelLesson
+  433  ls
+  434  cd laravel_app
+  435  ls
+  436  php artisan serve
+  437  php artisan make:auth
+  438  php artisan serve
+  439  ls
+  440  cd ../
+  441  ls
+  442  cp laravel_app laravel_auth_app
+  443  cp -r laravel_app laravel_auth_app
+  444  ls
+  445  cd laravel_auth_app
+  446  ls
+  447  php artisan serve
+  448  php artisan make:auth
+  449  php artisan serve
+  450  ls
+  451  php artisan serve
+  452  php artisan route:list
+  453  php artisan serve
+  454  php artisan make:migration add_user_id_to_todos_table --table=todos
+  455  php artisan migrate
+  456  php artisan serve
+  457  php artisan route:list
+  458  php artisan route:list
+  459  php artisan serve -h
+  460  php artisan serve -q
+  461  php artisan route:list
+  462  php artisan serve -q
+  463  mysql.server start
+  464  php artisan serve -q
+  465  brew cask
+  466  brew -h
+  467  brew --h
+  468  brew --help
+  469  brew --cask
+  470  brew -v
+  471  cd ../
+  472  ls
+  473  cd laravel_app
+  474  php artisan serve
+  475  php artisan route:list
+  476  php artisan serve
+  477  pip install --upgrade pip
+  478  python3 --version
+  479  brew install python==3.8
+  480  brew install python@3.8
+  481  python --version
+  482  python3 --version
+  483  vi ~/.zshrc
+  484  source ~/.zshrc
+  485  python3 --version
+  486  /usr/bin/ruby -e "$(curl\n -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  487   git clone git://github.com/yyuu/pyenv.git ~/.pyenv
+  488  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile
+  489  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile
+  490  echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
+  491  pyenv --version
+  492  echo 'eval "$(pyenv init -)"' >> ~/.zsh_profile
+  493  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zsh_profile
+  494  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zsh_profile
+  495  source ~/.zshrc
+  496  pyenv --version
+  497  echo 'eval "$(pyenv init -)"' >> ~/.zshrc_profile
+  498  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc_profile
+  499  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc_profile
+  500  ls -la ~/
+  501  cat ~/.zshrc_profile
+  502  echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+  503  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshr
+  504  echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+  505  echo 'eval "$(pyenv init -)"' >> ~/.zshrc
+  506  source ~/.zshrc
+  507  pyenc
+  508  pyenv
+  509  pyenv install --list
+  510  pyenv install 3..8.7
+  511  pyenv install 3.8.7
+  512  pyenv versions
+  513  python --version
+  514  python global 3.8.7
+  515  pyenv global 3.8.7
+  516  pyenv install 3.8.0
+  517  python --version
+  518  pyenv versions
+  519  pyenv global 3.8.0
+  520  python3 --version
+  521  ls
+  522  ls
+  523  brew install zlib
+  524  pyenv install 3.8.0
+  525  brew list
+  526  brew uninstall --force --ignore-dependencies python3
+  527  brew list
+  528  python --version
+  529  python3 --version
+  530  ls
+  531  cd Do
+  532  cd Documents
+  533  ls
+  534  cd private
+  535  ls
+  536  ls /usr/local/opt/
+  537  ls
+  538  brew list
+  539  brew --prefix python@3.8
+  540  cat ~/.zshrc
+  541  cat ~/.zshrc
+  542  cat ~/.zshrc
+  543  cat ~/.zshrc
+  544  pip install --upgrade pip
+  545  pip3 install --upgrade pip3
+  546  pip3 -m pip install --upgrade pip
+  547  python3 -m pip install --upgrade pip
+  548  pip3 install --upgrade pip
+  549  pip3 install --upgrade pip --user
+  550  virtualbox
+  551  brew install --cask vagrant
+  552  vagrant -v
+  553  vagrant box add centos/7
+  554  ls
+  555  cd ../
+  556  ls
+  557  cd ../
+  558  ls
+  559  cd Giztech
+  560  ls
+  561  mkdir ServerLesson
+  562  ls
+  563  cd ServerLesson
+  564  ls
+  565  mkdir vagrant_test
+  566  cd vagrant_test
+  567  vagrant init centos/7
+  568  ls
+  569  vi Vagrantfile
+  570  ls
+  571  vagrant plugin install vagrant-vbguest
+  572  vagrant plugin list
+  573  vagrant up
+  574  sudo kmutil load -b org.virtualbox.kext.VBoxDrv
+  575  vagrant -v
+  576  brew list
+  577  brew install docker --cask
+  578  docker --version
+  579  brew list
+  580  ls
+  581  ls -la /usr/local/bin
+  582  open /Applications/Docker.app
+  583  docker --version
+  584  open /Applications/Docker.app
+  585  docker --version
+  586  ls
+  587  cd ..
+  588  cd ../
+  589  ls
+  590  cd ServerLesson
+  591  ls
+  592  mkdir docker_dir && cd docker_dir
+  593  cp -r ../../LaravelLesson/laravel_app ./
+  594  ls
+  595  git clone https://github.com/laradock/laradock.git
+  596  ls
+  597  cd lara
+  598  cd laradock
+  599  ls
+  600  cp env-example .env
+  601  ls
+  602  vi .env
+  603  vi docker-compose.yml
+  604  docker-compose build workspace mysql apache2 nginx php-fpm\n
+  605  vi docker-compose.yml
+  606  vi docker-compose.yml
+  607  ls
+  608  cd ../
+  609  ls
+  610  cd ../
+  611  ls
+  612  cd ../
+  613  ls
+  614  mkdir GizLog
+  615  cd GizLog
+  616  ls
+  617  git clone https://gizumo.backlog.com/git/GL/dev_gizlog.git
+  618  git clone https://gizumo.backlog.com/git/GL/dev_gizlog.git
+  619  git clone https://github.com/gizumo-inc/dev_gizlog.git
+  620  ls
+  621  cd dev_gizlog
+  622  ls
+  623  ls
+  624  cd ../
+  625  ls
+  626  docker-compose up -d
+  627  docker-compose up -d
+  628  ls
+  629  ls -la
+  630  cd www
+  631  ls
+  632  cd dev_gizlog
+  633  ls
+  634  ls
+  635  cd ../
+  636  ls
+  637  cp -r ../dev_gizlog ./dev_gizlog
+  638  ls
+  639  cd dev_gizlog
+  640  l;s
+  641  ls
+  642  cd ../
+  643  cp -r ../dev_gizlog ./
+  644  ls
+  645  cd dev_gizlog
+  646  ls
+  647  cd ../
+  648  cd ../
+  649  ls
+  650  cd dev_gizlog
+  651  ls
+  652  composer install
+  653  cp .env.example .env
+  654  ls
+  655  cat .env
+  656  composer install
+  657  ls
+  658  cat composer.
+  659  cat composer.lock
+  660  composer install
+  661  cat composer.lock | grep laravel/dusk
+  662  composer -v
+  663  composer self-update 1.10.14
+  664  ls
+  665  composer --version
+  666  composer install
+  667  vi .env
+  668  vi .env
+  669  docker-compose exec web php artisan key:generate
+  670  ls
+  671  cd ../
+  672  docker-compose exec web php artisan key:generate
+  673  docker-compose --help
+  674  docker-compose kill
+  675  docker-compose up -d
+  676  docker-compose exec web php artisan key:generate
+  677  docker exec -it web /bin/sh
+  678  docker ps
+  679  docker exec -it gizlog_web_1 /bin/sh
+  680  ls
+  681  cdwww
+  682  cd www
+  683  ls
+  684  cd dev_gizlog
+  685  ls
+  686  composer install
+  687  ls
+  688  docker-compose exec web php artisan key:generate
+  689  ls
+  690  ls -la
+  691  cp .env.example .env
+  692  ls
+  693  ls -la
+  694  vi .env
+  695  docker-compose exec web php artisan key:generate
+  696  docker-compose exec web php artisan migrate --seed
+  697  vi .env
+  698  cd ../
+  699  ls
+  700  cd ../
+  701  ls
+  702  docker-compose kill
+  703  cd www
+  704  ls
+  705  cd dev_gizlog
+  706  ls
+  707  rm -r dev_gizlog
+  708  docker-compose killls
+  709  ls -la
+  710  cd ../
+  711  ls
+  712  cd ../
+  713  ls
+  714  docker-compose up -d
+  715  docker-compose exec web php artisan key:generate
+  716  docker-compose exec web php artisan migrate --seed
+  717  ls
+  718  docker ps
+  719  docker exec -it gizlog_web_1 /bin/sh
+  720  ls
+  721  ls
+  722  cd www
+  723  ls
+  724  cd dev_gizlog
+  725  ls
+  726  vi .env
+  727  docker-compose exec web php artisan migrate --seed
+  728  ls
+  729  ks
+  730  ls
+  731  cd ../
+  732  ls
+  733  cd ../
+  734  ls
+  735  docker-compose.yml
+  736  vi docker-compose.yml
+  737  docker exec -it gizlog_db_1 /bin/sh
+  738  ls
+  739  vi docker-compose.yml
+  740  ls
+  741  cd www
+  742  l;s
+  743  ls
+  744  cd dev_gizlog
+  745  ls
+  746  ls
+  747  cat .env
+  748  vi .env
+  749  docker-compose exec web php artisan migrate --seed
+  750  docker exec -it gizlog_db_1 /bin/sh
+  751  docker-compose exec web php artisan migrate --seed
+  752  docker exec -it gizlog_db_1 /bin/sh
+  753  docker-compose exec web php artisan migrate --seed
+  754  docker exec -it gizlog_db_1 /bin/sh
+  755  docker-compose exec web php artisan migrate --seed
+  756  docker exec -it gizlog_db_1 /bin/sh
+  757  ls
+  758  vi .env
+  759  docker-compose exec web php artisan migrate --seed
+  760  ls
+  761  docker exec -it gizlog_db_1 /bin/sh
+  762  docker-compose exec web php artisan migrate --seed
+  763  docker exec -it gizlog_db_1 /bin/sh
+  764  docker-compose exec web php artisan migrate --seed
+  765  docker exec -it gizlog_db_1 /bin/sh
+  766  docker-compose exec web php artisan migrate --seed
+  767  docker exec -it gizlog_db_1 /bin/sh
+  768  docker-compose exec web php artisan migrate --seed
+  769  ls
+  770  cd ../
+  771  cd ../
+  772  ls
+  773  docker-compose kill
+  774  brew install python3\n
+  775  python -v
+  776  python --version
+  777  pip3 list
+  778  pip3 install jupyter
+  779  jupyter notebook
+  780  pip3 install jupyter --user
+  781  jupyter notebook
+  782  pip3 list
+  783  jupyter notebook
+  784  open ~/.bash_profile
+  785  pip3 show jupyter
+  786  source ~/.bash_profile
+  787  jupyter
+  788  open ~/.bash_profile
+  789  source ~/.bash_profile
+  790  jupyter
+  791  source ~/.bash_profile
+  792  jupyter
+  793  ls ~
+  794  ls -la ~ 
+  795  vi ~/.zprofile
+  796  source ~/.zprofile
+  797  jupyter
+  798  mysql
+  799  mysql.server start
+  800  jupyter notebook
+  801  ls
+  802  cd ../../
+  803  lsc
+  804  cd /
+  805  ls
+  806  cd usr
+  807  ls
+  808  cd local
+  809  l
+  810  cd ~/
+  811  ls
+  812  cd Do
+  813  cd Documents
+  814  ls
+  815  cd private
+  816  ls
+  817  ls
+  818  git clone https://github.com/daikke/scraping_jra.git
+  819  ls
+  820  ls -la
+  821  git clone https://github.com/daikke/document.git
+  822  ls
+  823  cd scraping_jra
+  824  ls
+  825  jupyter notebook
+  826  jupyter notebook
+  827  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+  828  brew
+  829  brew
+  830  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  831  brew -v
+  832  brew install mysql@5.7
+  833   echo 'export PATH="/usr/local/opt/mysql@5.7/bin:$PATH"' >> ~/.zshrc
+  834  source ~/.zshrc
+  835  mysql
+  836  mysql --version
+  837  mysql -u root -p
+  838  mysql -u root -p
+  839  mysql.server start
+  840  mysql -u root -p
+  841  pyp -v
+  842  php -v
+  843  brew install php@7.2
+  844  php -v
+  845  echo 'export PATH="/usr/local/opt/php@7.2/bin:$PATH"' >> ~/.zshrc
+  846  echo 'export PATH="/usr/local/opt/php@7.2/sbin:$PATH"' >> ~/.zshrc
+  847  php -v
+  848  source ~/.zshrc
+  849  php -v
+  850  lsls
+  851  ls
+  852  cd Documents
+  853  ls
+  854  cd Giztech
+  855  ls
+  856  cd PHPLesson
+  857  ls
+  858  cd test_app
+  859  ls
+  860  cd todo
+  861  ls
+  862  php -S localhost:9999
+  863  composer --version
+  864   brew install composer
+  865  composer -v
+  866  brew install nvm
+  867  echo 'export NVM_DIR=~/.nvm' >> ~/.zshrc
+  868  echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
+  869  source ~/.zshrc
+  870  nvm --version
+  871  nvm ls-remote
+  872  nvm install v14.15.4
+  873  nvm use v14.15.4
+  874  ls
+  875  cd ../../
+  876  ls
+  877  cd ../
+  878  ls
+  879  composer create-project laravel/laravel --prefer-dist laravel_app 5.7
+  880  cd laravel_app\nphp artisan serve
+  881  brew install virtualbox --cask
+  882  virtualbox
+  883  brew install --cask vagrant
+  884  vagrant -v
+  885  ls
+  886  cd ../
+  887  ls
+  888  mkdir test
+  889  cd test
+  890  ls
+  891  vagrant init centos/7
+  892  ls
+  893  vi Vagrantfile
+  894  vagrant plugin install vagrant-vbguest
+  895  vagrant plugin list
+  896  vagrant up
+  897  docker --version
+  898  ls
+  899  cd ../
+  900  ls
+  901  rm -r laravel_app
+  902  rm -r test
+  903  ls
+  904  cd ServerLesson
+  905  ls
+  906  cd docker_dir
+  907  ls
+  908  ls
+  909  cd ../
+  910  rm -r docker_dir
+  911  y
+  912  y
+  913  y
+  914  ls
+  915  mkdir docker_dir
+  916  ls
+  917  cd docker_dir
+  918  ls
+  919  cp -r  ../../LaravelLesson/laravel_app ./
+  920  ls
+  921  git clone https://github.com/laradock/laradock.git
+  922  cd laradock
+  923  cp env-example .env
+  924  vi .env
+  925  vi docker-compose.yml
+  926   docker-compose build workspace mysql apache2 nginx php-fpm
+  927  ls
+  928  vi docker-compose.yml
+  929  cp docker-compose.yml docker-compose.yml.bk
+  930  vi docker-compose.yml
+  931   docker-compose build workspace mysql apache2 nginx php-fpm
+  932  brew list
+  933  brew uninstall virtualbox
+  934  brew -v
+  935  brew install virtualbox --cask
+  936  ls
+  937  vagrant up
+  938  ls
+  939  cd ../
+  940  ls
+  941  cd ../\ncd ../
+  942  ls
+  943  cd vagrant_test
+  944  ls
+  945  vagrant up
+  946  ls
+  947  vagrant up
+  948  ls
+  949  brew uninstall virtualbox
+  950  vagrant up
+  951  ls
+  952  cd Do
+  953  cd Documents
+  954  ls
+  955  cd Giztech
+  956  ls
+  957  cd ServerLesson
+  958  ls
+  959  cd docker_dir
+  960  ls
+  961  cd laradock
+  962  ls
+  963  docker ps
+  964  docker-compose up -d
+  965   docker-compose build workspace mysql apache2 nginx php-fpm
+  966  ls
+  967  cd apache2
+  968  ls
+  969  cd sites
+  970  ls
+  971  vi default.apache.conf
+  972  docker-compose up -d workspace apache2
+  973  docker-compose build workspace mysql apache2 nginx php-fpm
+  974  ls
+  975  cd ../
+  976  ls
+  977  cd ../
+  978  docker-compose build workspace mysql apache2 nginx php-fpm
+  979  docker-compose up -d workspace apache2 mysql
+  980  docker-compose ps
+  981  docker-compose up -d workspace apache2
+  982  docker-compose up -d workspace apache2
+  983  vi apache2/sites/default.apache.conf
+  984  docker-compose up -d workspace apache2
+  985  docker ps
+  986  docker-compose ps
+  987  docker-compose build workspace apache2
+  988  docker-compose up -d workspace apache2
+  989  docker-compose ps
+  990  docker-compose build workspace apache2 --no-cache
+  991  docker-compose build --no-cach workspace apache2
+  992  docker-compose build --no-cache workspace apache2
+  993  docker-compose up -d workspace apache2
+  994  docker-compose ps
+  995  ls
+  996  cd ../../
+  997  ls
+  998  mkdir server_lesson && cd server_lesson\n
+  999  ls
+ 1000  ls
+ 1001  git init
+ 1002  touch first.txt
+ 1003  git add .
+ 1004  git commit -m 'first commit'
+ 1005  git log
+ 1006  cd ../
+ 1007  mkdir -p server_lesson/linux_practice/public
+ 1008  ls
+ 1009  cd vagrant_test
+ 1010  ls
+ 1011  cd ../
+ 1012  ls
+ 1013  cd server_lesson
+ 1014  ls
+ 1015  cd linux_practice
+ 1016  ls
+ 1017  cd ../
+ 1018  cd ../
+ 1019  touch server_lesson/linux_practice/public/index.php
+ 1020  ls server_lesson/linux_practice/public
+ 1021  cd /vagrant/server_lesson && ls
+ 1022  cd server_lesson/linux_practice/public && cp index.php index_bk.php
+ 1023  ls
+ 1024  cd ../
+ 1025  ls
+ 1026  cp -r public tmp
+ 1027  ls
+ 1028  ls ./ public tmp
+ 1029  cd ../
+ 1030  ls
+ 1031  cd ../
+ 1032  ls
+ 1033  mv server_lesson/linux_practice server_lesson/linux_practice1
+ 1034  mkdir linux_practice2 linux_practice3
+ 1035  ls
+ 1036  mv ./linux_practice2 ./server_lesson
+ 1037  ls
+ 1038  cd /vagrant/server_lesson/linux_practice1/tmp/
+ 1039  ls
+ 1040  cd /server_lesson/linux_practice1/tmp/
+ 1041  cd server_lesson/linux_practice1/tmp
+ 1042  ls
+ 1043  rm *_bk.php
+ 1044  ls
+ 1045  cd ../../
+ 1046  ls
+ 1047  rm first.txt
+ 1048  ls
+ 1049  cd ../
+ 1050  ls
+ 1051  rm -r linux_practice3
+ 1052  ls
+ 1053  ls server_lesson
+ 1054  ls
+ 1055  cd server_lesson
+ 1056  ls
+ 1057  echo '# サーバーレッスン' README.md
+ 1058  echo '# サーバーレッスン' > README.md
+ 1059  echo 'Linuxプラクティス' > README.md
+ 1060  echo '-----------------' > README.md
+ 1061  cat RE
+ 1062  cat README.md
+ 1063  echo '# サーバーレッスン' > README.md
+ 1064  echo 'Linuxプラクティス' >> README.md
+ 1065  echo '-----------------' >> README.md
+ 1066  cat README.md
+ 1067  ls
+ 1068  cd linux_practice1
+ 1069  ls
+ 1070  cd public
+ 1071  ls
+ 1072  cd ../
+ 1073  ls
+ 1074  cd tmp
+ 1075  ls
+ 1076  cd ../
+ 1077  ls
+ 1078  cd ../
+ 1079  ls
+ 1080  git add .
+ 1081  git commit -m 'add directories'
+ 1082  git remote add origin https://github.com/daikke/server_lesson.git
+ 1083  git branch -M main
+ 1084  git push -u origin main
+ 1085  ls
+ 1086  cd linux_practice
+ 1087  cd linux_practice2
+ 1088  ls
+ 1089  pwd
+ 1090  mkdir documents
+ 1091  ls
+ 1092  touch ./documents/gizumo{01..50}.md
+ 1093  ls
+ 1094  cd documents
+ 1095  ls
+ 1096  cd ../
+ 1097  ls
+ 1098  mkdir trash
+ 1099  ls
+ 1100  mv ./documents/gizumo{20..40}.md ./trash/
+ 1101  ls
+ 1102  cd trash
+ 1103  ls
+ 1104  cd ,,.
+ 1105  cd ../
+ 1106  ls
+ 1107  cd documents
+ 1108  ls
+ 1109  cd ../
+ 1110  ls
+ 1111  touch .gitignore
+ 1112  ls
+ 1113  vi .gitignore
+ 1114  vi .gitignore
+ 1115  history 300
+ 1116  ls
